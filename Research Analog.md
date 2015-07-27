@@ -1,5 +1,4 @@
 # Quadcopter-Project
-hello
 
 ## Introduction: 
 
@@ -21,7 +20,7 @@ microcontroller.
 
 ## Update on 27th July
 
-### What we did:
+#### What we did:
 
 * Decided to use Intel Edison instead of MSP430 since 16 bit is too slow
 * Created repositories in GitHub
