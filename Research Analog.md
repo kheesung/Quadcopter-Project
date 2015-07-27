@@ -25,3 +25,8 @@ microcontroller.
 * Decided to use Intel Edison instead of MSP430 since 16 bit is too slow
 * Created repositories in GitHub
 * Discussed on the goals of the quadcopter
+
+#### Things needed:
+
+* Need to connect Intel Edison to computer
+* Build connection from the microcontroller to the quadcopter
