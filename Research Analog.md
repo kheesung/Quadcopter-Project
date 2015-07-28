@@ -30,3 +30,9 @@ microcontroller.
 
 * Need to connect Intel Edison to computer
 * Build connection from the microcontroller to the quadcopter
+
+## Update on 28th July
+
+#### What we did:
+
+* Studied on the sample code by Magdwick on AHRS determination of quaternion
